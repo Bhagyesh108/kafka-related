@@ -8,10 +8,17 @@
 		<version>3.4.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+<<<<<<< HEAD
 	<groupId>com.delivery</groupId>
 	<artifactId>deliveryBoy</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>deliveryBoy</name>
+=======
+	<groupId>com.enduser</groupId>
+	<artifactId>enduser</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>enduser</name>
+>>>>>>> 28835ae5eb6a109f1695bc11ad797d276637733b
 	<description>this is project for spring boot enduser</description>
 	<url/>
 	<licenses>
